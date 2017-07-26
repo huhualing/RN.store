@@ -1,0 +1,102 @@
+{
+  "data":[
+    {
+      "title" : "老知青",
+      "subTitle" : "100元代金券1张，可叠加使用",
+      "distance":"100",
+      "price":"60",
+      "selled":"5555",
+      "img":"lzq"
+    },
+    {
+      "title" : "Salud",
+      "subTitle" : "莎奴姆/撒露1份，提供免费WiFi",
+      "distance":"100",
+      "price":"32.5",
+      "selled":"6666",
+      "img":"sdm"
+    },
+    {
+      "title" : "华莱士",
+      "subTitle" : "三块鸡+中可，建议单人使用",
+      "distance":"100",
+      "price":"8.5",
+      "selled":"57777",
+      "img":"hls"
+    },
+     {
+      "title" : "老知青",
+      "subTitle" : "100元代金券1张，可叠加使用",
+      "distance":"100",
+      "price":"60",
+      "selled":"5555",
+      "img":"lzq"
+    },
+    {
+      "title" : "Salud",
+      "subTitle" : "莎奴姆/撒露1份，提供免费WiFi",
+      "distance":"100",
+      "price":"32.5",
+      "selled":"6666",
+      "img":"sdm"
+    },
+    {
+      "title" : "华莱士",
+      "subTitle" : "三块鸡+中可，建议单人使用",
+      "distance":"100",
+      "price":"8.5",
+      "selled":"57777",
+      "img":"hls"
+    },
+    {
+      "title" : "老知青",
+      "subTitle" : "100元代金券1张，可叠加使用",
+      "distance":"100",
+      "price":"60",
+      "selled":"5555",
+      "img":"lzq"
+    },
+    {
+      "title" : "Salud",
+      "subTitle" : "莎奴姆/撒露1份，提供免费WiFi",
+      "distance":"100",
+      "price":"32.5",
+      "selled":"6666",
+      "img":"sdm"
+    },
+    {
+      "title" : "华莱士",
+      "subTitle" : "三块鸡+中可，建议单人使用",
+      "distance":"100",
+      "price":"8.5",
+      "selled":"57777",
+      "img":"hls"
+    },
+    {
+      "title" : "老知青",
+      "subTitle" : "100元代金券1张，可叠加使用",
+      "distance":"100",
+      "price":"60",
+      "selled":"5555",
+      "img":"lzq"
+    },
+    {
+      "title" : "Salud",
+      "subTitle" : "莎奴姆/撒露1份，提供免费WiFi",
+      "distance":"100",
+      "price":"32.5",
+      "selled":"6666",
+      "img":"sdm"
+    },
+    {
+      "title" : "华莱士",
+      "subTitle" : "三块鸡+中可，建议单人使用",
+      "distance":"100",
+      "price":"8.5",
+      "selled":"57777",
+      "img":"hls"
+    }
+    
+  ]
+  
+}
